@@ -1,2 +1,2 @@
 # scott
-Selected papers of Dana S. Scott
+Selected Papers of Dana S. Scott
