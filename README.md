@@ -8,7 +8,7 @@ Please inform us of any inaccuracies or missing works.
 |[Foundational aspects of theories of measurement (Scott-Suppes)](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1958-Scott-Suppes-foundational-aspects-of-theories-of-measurement.pdf)| 1958 |
 |[Finite automata and their decision problems (Rabin-Scott)](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1959-finite-automata.pdf)| 1959 |
 |[On constructing models for arithmetic](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1959-on-constructing-models-for-arithmetic.pdf)| 1959 |
-|[Measurable cardinals and constructible sets}](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1961-measurable-cardinals-and-constructible-sets.pdf)| 1961 |
+|[Measurable cardinals and constructible sets](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1961-measurable-cardinals-and-constructible-sets.pdf)| 1961 |
 |[Algebras of sets binumerable in complete extensions of arithmetic](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1962-algebras-of-sets-binumerable-in-complete-extensions-of-arithmetic.pdf)| 1962 |
 |[Quine's individuals](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1962-Quines-individuals.pdf)| 1962 |
 |[Invariant Borel sets](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1964-invariant-borel-sets.pdf)| 1964 |
