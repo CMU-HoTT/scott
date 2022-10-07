@@ -10,7 +10,7 @@ Please inform us of any inaccuracies or missing works.
 |[On constructing models for arithmetic](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1959-on-constructing-models-for-arithmetic.pdf)| 1959 |
 |[Measurable cardinals and constructible sets}](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1961-measurable-cardinals-and-constructible-sets.pdf)| 1961 |
 |[Algebras of sets binumerable in complete extensions of arithmetic](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1962-algebras-of-sets-binumerable-in-complete-extensions-of-arithmetic.pdf)| 1962 |
-|[Quine's-individuals](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1962-Quines-individuals.pdf)| 1962 |
+|[Quine's individuals](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1962-Quines-individuals.pdf)| 1962 |
 |[Invariant Borel sets](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1964-invariant-borel-sets.pdf)| 1964 |
 |[Logic with denumerably long formulas](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1965-logic-with-denumerably-long-formulas.pdf)| 1965 |
 |[A proof of the independence of the continuum hypothesis](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1967-a-proof-of-the-independence-of-the-continuum-hypothesis.pdf)| 1967 |
