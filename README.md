@@ -35,5 +35,5 @@ Additions and corrections via pull request are welcome.
 |[Relating theories of the lambda-calculus](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1980-relating-theories-of-the-lambda-calculus.pdf)| 1980 |
 |[Some ordered sets in computer science](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1982-some-ordered-sets-in-computer-science.pdf)| 1982 |
 |[A type theoretical alternative to ISWIM, CUCH, OWHY](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1993-a-type-theoretical-aternative-to-ISWIM-CUCH-OWHY.pdf)| 1993 |
-|[A new category?](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1998-a-new-category?.pdf)| 1998 |
+|[A new category?](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1998-a-new-category.pdf)| 1998 |
 |[The algebraic interpretation of quantifiers](https://github.com/CMU-HoTT/scott/blob/main/pdfs/2007-the-algebraic-interpretation-of-quantifiers.pdf)| 2007 |
