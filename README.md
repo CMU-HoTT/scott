@@ -1,6 +1,7 @@
 ## Selected Papers of Dana S. Scott
 
 Please inform us of any inaccuracies or missing works.
+Additions via pull request are welcome.
 
 | Title | Year |
 |:------|:----:|
