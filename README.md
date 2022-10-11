@@ -4,7 +4,7 @@ Additions and corrections via pull request are welcome.
 
 | Title | Year |
 |:------|:----:|
-|[Convergent sequences of complete theories (Dissertation)](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1958-convergent-sequences-of-complete-theories-(dissertation).pdf)| 1958 |
+|[Convergent sequences of complete theories (dissertation)](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1958-convergent-sequences-of-complete-theories-(dissertation).pdf)| 1958 |
 |[Foundational aspects of theories of measurement (Scott-Suppes)](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1958-Scott-Suppes-foundational-aspects-of-theories-of-measurement.pdf)| 1958 |
 |[Finite automata and their decision problems (Rabin-Scott)](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1959-finite-automata.pdf)| 1959 |
 |[On constructing models for arithmetic](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1959-on-constructing-models-for-arithmetic.pdf)| 1959 |
