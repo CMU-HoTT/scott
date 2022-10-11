@@ -25,7 +25,7 @@ Additions and corrections via pull request are welcome.
 |[On engendering an illusion of understanding](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1971-on-engendering-an-illusion-of-understanding.pdf)| 1971 |
 |[Ordinal definability (Myhill-Scott)](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1971-Myhill-Scott-ordinal-definability.pdf)| 1971 |
 |[Continuous lattices](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1972-continuous-lattices.pdf)| 1972 |
-|[Axiomatizing set theory](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1974-axiomatizing-set-sheory.pdf)| 1974 |
+|[Axiomatizing set theory](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1974-axiomatizing-set-theory.pdf)| 1974 |
 |[Does many valued logic have any use](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1974-does-many-valued-logic-have-any-use.pdf)| 1974 |
 |[Combinators and classes](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1975-combinators-and-classes.pdf)| 1975 |
 |[Data types as lattices](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1976-data-types-as-lattices.pdf)| 1976 |
