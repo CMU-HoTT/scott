@@ -38,3 +38,4 @@ Additions and corrections via pull request are welcome.
 |[A type theoretical alternative to ISWIM, CUCH, OWHY](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1993-a-type-theoretical-aternative-to-ISWIM-CUCH-OWHY.pdf)| 1993 |
 |[A new category?](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1998-a-new-category.pdf)| 1998 |
 |[The algebraic interpretation of quantifiers](https://github.com/CMU-HoTT/scott/blob/main/pdfs/2007-the-algebraic-interpretation-of-quantifiers.pdf)| 2007 |
+|[The presheaf model for set theory](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1980-the-presheaf-model-for-set-theory.pdf)| 1980 |
