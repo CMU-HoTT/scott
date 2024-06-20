@@ -34,6 +34,7 @@ Additions and corrections via pull request are welcome.
 |[Identity and existence in intuitionistic logic](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1979-identity-and-existence-in-intuitionistic-logic.pdf)| 1979 |
 |[Lambda-calculus - some models some philosophy](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1980-lambda-Calculus-some-models-some-philosophy.pdf)| 1980 |
 |[Relating theories of the lambda-calculus](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1980-relating-theories-of-the-lambda-calculus.pdf)| 1980 |
+|[The presheaf model for set theory](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1980-the-presheaf-model-for-set-theory.pdf)| 1980 |
 |[Some ordered sets in computer science](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1982-some-ordered-sets-in-computer-science.pdf)| 1982 |
 |[A type theoretical alternative to ISWIM, CUCH, OWHY](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1993-a-type-theoretical-aternative-to-ISWIM-CUCH-OWHY.pdf)| 1993 |
 |[A new category?](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1998-a-new-category.pdf)| 1998 |
